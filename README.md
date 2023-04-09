@@ -2,7 +2,7 @@
 Retinal Waves for Pre-Training Artificial Neural Networks Mimicking Real Prenatal Development
 
 # Structure
-This project provides different steps to make generation of retinal waves, pretraining a neural network and training it on image data easily accessible.
+This project provides different steps to make generation of retinal waves, pretraining a neural network and training it on image data easily accessible.\
 1 - Generate Retinal Waves (Pretraining Data)\
 2 - Prepare the retinal wave dataset for pre-training (train/val/test split), download fine-tuning dataset\
 3a - Pretrain the Network on Retinal Waves\
