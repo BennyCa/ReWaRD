@@ -26,4 +26,4 @@ for exact prerequisites see subfolders.
 if you just want to fine tune a already pre-trained network, use a provided .pth and start with step 3b).
 
 # License
-The license does not apply to linked repositories. See these Repositories for their License.
+The license does not apply to submodule repositories. See these Repositories for their License.
