@@ -8,7 +8,7 @@ This project provides different steps to make generation of retinal waves, pretr
 3a - Pretrain the Network on Retinal Waves\
 3b - Fine-Tune = Train the Network for a specific Task on the fine-tuning dataset\
 4 - Save checkpoints and visualize Filters\
-5 - Evaluate on BrainScore\
+5 - Evaluate on BrainScore
 
 # Prerequisites
 
@@ -16,7 +16,7 @@ This project provides different steps to make generation of retinal waves, pretr
 2 - python\
 3 - python3.7, GPU\
 4 - python\
-5 - python3.7\
+5 - python3.7
 
 
 # Getting started
