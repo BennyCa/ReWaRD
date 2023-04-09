@@ -11,3 +11,4 @@
 [submodule "3_Pretraining-and-Finetuning/FractalDB_Pretraining-Finetuning"]
 	path = 3_Pretraining-and-Finetuning/FractalDB_Pretraining-Finetuning
 	url = https://github.com/hirokatsukataoka16/FractalDB-Pretrained-ResNet-PyTorch.git
+	branch = main
