@@ -20,7 +20,7 @@ This project provides different steps to make generation of retinal waves, pretr
 
 
 # Getting started
-if you just want to fine tune a already pre-trained network, use the provided pth and start with step 3b).
+if you just want to fine tune a already pre-trained network, use a provided .pth and start with step 3b).
 
 # License
 The license does not apply to linked repositories. See these Repositories for their License.
