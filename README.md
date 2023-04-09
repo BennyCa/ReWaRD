@@ -1,6 +1,8 @@
 # ReWaRD
 Retinal Waves for Pre-Training Artificial Neural Networks Mimicking Real Prenatal Development
 
+![ReWaRD Overview Figure](https://github.com/BennyCa/ReWaRD/blob/main/ReWaRD_Overview.png?raw=true)
+
 # Structure
 This project provides different steps to make generation of retinal waves, pretraining a neural network and training it on image data easily accessible.\
 1 - Generate Retinal Waves (Pretraining Data)\
