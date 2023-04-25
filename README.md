@@ -19,10 +19,17 @@ retinal wave datasets and ANN intermediate results are released to the public:
 - pre-trained and fine-tuned artificial neural networks: https://zenodo.org/record/7779519
 
 # Quick Start
-For the complete pipeline, start from step 1 and do each step consequently.
-If you want to pre-train on an existing dataset, get the intermediate result (rwave-4096 dataset, prepared for pre-training) from https://zenodo.org/record/7779498 and start with step 3a).
-If you just want to fine-tune a already pre-trained network, get a pre-trained .pth from https://zenodo.org/record/7779519 (one starting with rwave...) and start with step 3b).
-If you just want to analyze the emerged networks, get a fine-tuned .pth from https://zenodo.org/record/7779519 (pt-rwave...-ft-....pth) and start with step 4). 
+## Complete ReWaRD pipeline
+Start from step 1 and execute each step consequently.
+
+## Pre-train on an existing dataset
+Get the intermediate result (rwave-4096 dataset, prepared for pre-training) from https://zenodo.org/record/7779498 and start with step 3a).
+
+## Fine-tune a already pre-trained network
+Get a pre-trained .pth from https://zenodo.org/record/7779519 (one starting with rwave...) and start with step 3b).
+
+## Analyze emerging features
+Get a fine-tuned .pth from https://zenodo.org/record/7779519 (pt-rwave...-ft-....pth) and start with step 4). 
 
 # Prerequisites
 1 - gcc, Java\
