@@ -3,6 +3,15 @@ Retinal Waves for Pre-Training Artificial Neural Networks Mimicking Real Prenata
 
 ![ReWaRD Overview Figure](https://github.com/BennyCa/ReWaRD/blob/main/ReWaRD_Overview.png?raw=true)
 
+If you use our code, please cite the following paper:
+```
+@inproceedings{cappell2023reward,
+      title={ReWaRD: Retinal Waves for Pre-Training Artificial Neural Networks Mimicking Real Prenatal Development}, 
+      author={Benjamin Cappell and Andreas Stoll and Williams Chukwudi Umah and Bernhard Egger},
+      year={2023},
+  booktitle={Proceedings of the Workshop on Unifying Representations in Neural Models (UniReps 2023) at NeurIPS 2023}
+}
+```
 # Structure
 This project provides different steps to make generation of retinal waves, pretraining a neural network and training it on image data easily accessible.\
 [Step 1](/1_Generate-Retinal-Waves) - Generate retinal waves (pre-training data)\
